@@ -24,7 +24,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-<div>
+<div align="center">
  <h2 align="center" style="margin: 5px 10px;">Github stats: </h2>
 
 [![](https://github-readme-stats.vercel.app/api?username=crisolapo&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/crisolapo)
